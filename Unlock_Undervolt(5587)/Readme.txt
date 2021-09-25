@@ -44,7 +44,7 @@ And after that
 In My case 
 
 ' setup_var Setup 0x659 0x0 '
-' setup_var Setup 0x5DB 0x0 '
+' setup_var Setup 0x5BD 0x0 '
 
 
 Thats it YOUR DONE . 
